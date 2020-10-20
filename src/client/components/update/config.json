@@ -1,0 +1,38 @@
+{
+  "firstName": {
+    "type": "string",
+    "maxLength": 20
+  },
+  "lastName": {
+    "type": "string",
+    "maxLength": 30
+  },
+  "address1": {
+    "type": "text",
+    "maxLength": 100
+  },
+  "address2": {
+    "type": "text",
+    "maxLength": 100
+  },
+  "town": {
+    "type": "string",
+    "maxLength": 30
+  },
+  "postCode": {
+    "type": "text",
+    "maxLength": 10
+  },
+  "country": {
+    "type": "string",
+    "maxLength": 30
+  },
+  "region": {
+    "type": "string",
+    "maxLength": 30
+  },
+  "contactNumber": {
+    "type": "text",
+    "maxLength": 16
+  }
+}
